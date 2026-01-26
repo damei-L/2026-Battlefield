@@ -49,5 +49,8 @@
 <img width="3616" height="653" alt="deepseek_mermaid_20260126_777742" src="https://github.com/user-attachments/assets/e9b1651d-3e76-40be-b7c1-211b45c37d3e" />
 
 
+5.你所理解的“支付”、“清算”、“结算”三个词，有什么不同？
 
-你所理解的“支付”、“清算”、“结算”三个词，有什么不同？
+它们环环相扣，但职责和发生的阶段完全不同。可以这样形象地理解：
+支付是“交易指令”，清算是“算账过程”，结算是“最终转账”。
+<img width="2238" height="2006" alt="deepseek_mermaid_20260126_627ba2" src="https://github.com/user-attachments/assets/dff3c935-9773-4aee-89ef-e092d18717bb" />
